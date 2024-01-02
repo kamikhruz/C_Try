@@ -1,1 +1,1 @@
-"\nCharacter: %c",
+int

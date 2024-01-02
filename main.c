@@ -1,6 +1,35 @@
 #include<stdio.h>
 
 int main(){
+
+    /*
+        Datatype       Format Specifier
+        int (4 bytes)       %d
+        double (8 bytes)    %lf
+        float (4 bytes)     %f
+        char (1 bytes)      %c
+    */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     //printf("Hello, world!\n");
 
     //int age = 26;
@@ -36,7 +65,7 @@ int main(){
 
 
 
-double number;
+/*double number;
 
 char alphabet;
 
@@ -48,6 +77,32 @@ scanf("%c", &alphabet);
 
 printf("Number: %lf", number);
 printf("\nAlphabet: %c", alphabet);
+*/
+
+
+
+
+
+
+char a = '5';
+int b = 9;
+
+int result = '8' + 12;
+
+printf("%d", result); // the result woould be 62 because if you add character to an arithmetic value, the character gets casted to its ASCII numeric value and the operation is performed like normal
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
