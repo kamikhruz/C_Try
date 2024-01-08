@@ -10,7 +10,7 @@ int main(){
     printf("%d", value2);
 
 
-
+// "0" is always false while "1" is always true
 
 
 
